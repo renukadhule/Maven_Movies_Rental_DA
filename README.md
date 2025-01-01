@@ -100,3 +100,28 @@ Tools & Library Used
 
 <img src="./IMAGES/BTS.png" alt="BTS.png" width="400"/> &nbsp;
 
+
+16. "Which customer qualifies as the top spender, and what rewards or points should we offer them?"
+
+<img src="./IMAGES/MOST_SPENDING_CUSTOMER.png" alt="MOST_SPENDING_CUSTOMER.png" width="400"/> &nbsp;
+
+
+17. "Could you please pull a count of titles sliced by rental duration?"
+
+<img src="./IMAGES/SLICED_BY_RENTAL_RATE.png" alt="SLICED_BY_RENTAL_RATE.png" width="400"/> &nbsp;
+
+
+18. "How do movie ratings and lengths correlate with rental demand (number of movies rented) across various rental periods?"
+
+<img src="./IMAGES/COMPARE_WITH_RENTAL_DURATION.png" alt="COMPARE_WITH_RENTAL_DURATION.png" width="400"/> &nbsp;
+
+
+19. "I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?"
+
+<img src="./IMAGES/MIN_MAX_AVG.png" alt="MIN_MAX_AVG.png" width="400"/> &nbsp;
+
+
+20. "Which movies should be recommended to individuals based on specific demographics like cultural background or interests?"
+
+<img src="./IMAGES/FIT_FOR_RECOMMENDATION.png" alt="FIT_FOR_RECOMMENDATION.png" width="400"/> &nbsp;
+
