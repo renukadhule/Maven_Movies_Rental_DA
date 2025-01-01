@@ -151,3 +151,12 @@ Tools & Library Used
 <img src="./IMAGES/FAV_ACTOR_APPEAR.png" alt="FAV_ACTOR_APPEAR.png" width="400"/> &nbsp;
 
 
+26.“The Manager from Store 2 is working on expanding our film collection there. Could you pull a list of distinct titles and their descriptions, currently available in inventory at store 2?”
+
+<img src="./IMAGES/COLLECTION_OF_STORE_2.png" alt="COLLECTION_OF_STORE_2.png" width="400"/> &nbsp;
+
+
+27.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
+
+<img src="./IMAGES/UNION.png" alt="UNION.png" width="400"/> &nbsp;
+
