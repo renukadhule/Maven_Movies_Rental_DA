@@ -21,9 +21,42 @@ Tools & Library Used
 
 <img src="https://github.com/renukadhule/Maven_Movies_Rental_DA/blob/main/mysql_logo.png" alt="mysql_img.png" width="150"/> &nbsp;
 
-# Project Result
+## Project Result
 
 [Click here to get full code](https://github.com/renukadhule/Maven_Movies_Rental_DA/blob/main/Code.sql)
 
-# Query Task
+## Query Task
+
+1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
+
+<img src="./IMAGES/email.png" alt="email.png" width="400"/> &nbsp;
+
+2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
+
+<img src="./IMAGES/CHEAPEST_RENTAL.png" alt="CHEAPEST_RENTAL.png" width="200"/> &nbsp;
+
+
+3. "How can we categorize all movies based on their rental rates and determine the count of movies in each category?"
+
+<img src="./IMAGES/TOTAL_NO_OF_MOVIES.png" alt="TOTAL_NO_OF_MOVIES.png" width="400"/> &nbsp;
+
+
+4. "Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?"
+
+<img src="./IMAGES/rating_wise_count.png" alt="rating_wise_count.png" width="400"/> &nbsp;
+
+
+5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
+
+<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width="400"/> &nbsp;
+
+
+6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+
+7. "Can you provide a list of movies and the number of times each has been rented out?"
+
+<img src="./IMAGES/popularity.png" alt="popularity.png" width="400"/> &nbsp;
 
