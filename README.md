@@ -125,3 +125,29 @@ Tools & Library Used
 
 <img src="./IMAGES/FIT_FOR_RECOMMENDATION.png" alt="FIT_FOR_RECOMMENDATION.png" width="400"/> &nbsp;
 
+
+21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
+
+<img src="./IMAGES/ACTIVE_STORE.png" alt="ACTIVE_STORE.png" width="400"/> &nbsp;
+
+
+22. “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description, and the store_id value associated with each item, and its inventory_id. Thanks!”
+
+<img src="./IMAGES/FILMS_IN_INVENTORY.png" alt="FILMS_IN_INVENTORY.png" width="400"/> &nbsp;
+
+
+23. "Can you list the movies that [FIRST_NAME] [LAST_NAME] has been part of, and how many are there in total?"
+
+<img src="./IMAGES/NO_OF_FILMS_BY_ACTOR.png" alt="NO_OF_FILMS_BY_ACTOR.png" width="400"/> &nbsp;
+
+
+24. “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
+
+<img src="./IMAGES/ACTOR_ASSOCIATED_WITH_TITLE.png" alt="ACTOR_ASSOCIATED_WITH_TITLE.png" width="400"/> &nbsp;
+
+
+25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
+
+<img src="./IMAGES/FAV_ACTOR_APPEAR.png" alt="FAV_ACTOR_APPEAR.png" width="400"/> &nbsp;
+
+
