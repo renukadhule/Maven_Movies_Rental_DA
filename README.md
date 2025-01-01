@@ -18,3 +18,5 @@ Operational Efficiency:
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 Tools & Library Used
+
+<img src="https://github.com/renukadhule/Maven_Movies_Rental_DA/blob/main/mysql_logo.png" alt="mysql_img.png" width="150"/> &nbsp;
